@@ -1,9 +1,9 @@
 spring:
   data:
     mongodb:
-      authentication-database: aaap
-      username: myUser
-      password: myPassword
-      database: aaap
+      authentication-database: youtubeVideoDatabase
+      username: youtube
+      password: youtube
+      database: youtubeVideoDatabase
       port: 27017
       host: localhost
